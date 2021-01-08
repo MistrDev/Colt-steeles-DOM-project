@@ -26,7 +26,7 @@ img.square {
 
 #toc {
     background-color: #dee2e6;
-    border: 2px solid #d4d8db;
+    border: 4px solid #d4d8db;
     display: table;
     padding: 1em;
 }
@@ -36,5 +36,5 @@ img.square {
 }
 
 .tocnumber {
-    color: rgb(10, 9, 9);
+    color: rgb(10, 9, 94);
 }
