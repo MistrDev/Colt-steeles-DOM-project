@@ -6,7 +6,3 @@ for (let link of allLinks) {
     link.style.textDecorationColor = 'purple';
     link.style.textDecorationStyle = 'wavy'
 }
-
-
-const header = document.querySelector('h1');
-header ? console.log(true) : console.log(false);
