@@ -38,3 +38,7 @@ img.square {
 .tocnumber {
     color: rgb(10, 9, 94);
 }
+
+.toctext{
+    color:blue;
+}
