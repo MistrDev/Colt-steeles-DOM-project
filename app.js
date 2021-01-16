@@ -5,6 +5,3 @@ for (let link of allLinks) {
     link.style.textDecorationColor = 'purple';
     link.style.textDecorationStyle = 'dotted'
 }
-
-
-
