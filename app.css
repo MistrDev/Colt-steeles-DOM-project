@@ -42,3 +42,9 @@ img.square {
 .toctext{
     color:blue;
 }
+
+#v1 {
+    width: auto;
+    height: auto;
+    background-color: aqua;
+}
