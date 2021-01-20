@@ -7,8 +7,3 @@ for (let link of allLinks) {
     link.style.color = 'green';
 }
 
-const btn = document.querySelector('#v1');
-
-btn.addEventListener('click', () => {
-    alert('This is way better than Inline!')
-})
