@@ -23,3 +23,11 @@ for (let button of buttons) {
         button.style.color = randomColor();
     })
 }
+
+
+
+const e = document.querySelector('e');
+
+e.addEventListener('click' , function(evt){
+    console.log(evt);
+})
