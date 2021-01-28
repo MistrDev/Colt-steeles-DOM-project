@@ -7,13 +7,6 @@ for (let link of allLinks) {
     link.style.color = 'green';
 }
 
-const randomColor = () => {
-    const r = Math.floor(Math.random() * 256);
-    const g = Math.floor(Math.random() * 256);
-    const b = Math.floor(Math.random() * 256);
-      return `rgb(${r}, ${g}, ${b})`;  
-  }
-
 
 const buttons = document.querySelectorAll('button');
 
@@ -23,11 +16,3 @@ for (let button of buttons) {
         button.style.color = randomColor();
     })
 }
-
-
-
-const e = document.querySelector('');
-
-e.addEventListener('click' , function(evt){
-    console.log(evt);
-})
