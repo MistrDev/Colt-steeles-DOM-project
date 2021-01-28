@@ -26,7 +26,7 @@ for (let button of buttons) {
 
 
 
-const e = document.querySelector('e');
+const e = document.querySelector('');
 
 e.addEventListener('click' , function(evt){
     console.log(evt);
