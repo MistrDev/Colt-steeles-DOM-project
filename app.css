@@ -51,3 +51,7 @@ h1 {
     display: inline;
     margin: auto;
 }
+
+.InputEvt {
+    height: 20 px;
+}
