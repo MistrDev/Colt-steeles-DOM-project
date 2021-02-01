@@ -18,3 +18,6 @@ for (let button of buttons) {
 }
 
 const input = document.querySelector('input'); 
+input.addEventListener('input' , function(e){
+    console.log('is this working?');
+})
