@@ -16,3 +16,5 @@ for (let button of buttons) {
         button.style.color = randomColor();
     })
 }
+
+const input = document.querySelector('input'); 
