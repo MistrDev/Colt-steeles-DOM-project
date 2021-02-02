@@ -17,7 +17,7 @@ for (let button of buttons) {
     })
 }
 
-const input = document.querySelector('input'); 
+const input = document.querySelector('#inputEvt'); 
 input.addEventListener('input' , function(e){
     console.log('is this working?');
 })
