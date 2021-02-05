@@ -16,8 +16,3 @@ for (let button of buttons) {
         button.style.color = randomColor();
     })
 }
-
-const input = document.querySelector('#inputEvt'); 
-input.addEventListener('input' , function(e){
-    console.log('is this working?');
-})
